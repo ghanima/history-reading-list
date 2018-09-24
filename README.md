@@ -2,6 +2,10 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-09-24
+
+* [Dmitry Meshkov, Scorex -- the Smallest Codebase for Blockchain](https://www.youtube.com/watch?v=m-yGbvsDjkA) - DLT, Blockchain, Scorex, Ergo
+
 ## 2018-09-23
 
 * [Zold - An Experimental Non-Blockchain Cryptocurrency for Fast Micro Payments](https://github.com/zold-io/zold) - DLT, Blockchain, cryptocurrency
