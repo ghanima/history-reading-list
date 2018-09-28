@@ -2,6 +2,10 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-09-27
+
+* [Extensible Effects: understanding them, implementing them, using them. A Tutorial](http://okmij.org/ftp/Haskell/extensible/tutorial.html) - Eff, Freer monad, Haskell, [CUFP conference](http://cufp.org/2017/c2-oleg-kiselyov-extensible-effects-understanding-them-implementing-them-using-them.html)
+
 ## 2018-09-26
 
 * [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) - React, UI, Material-UI, react-bootstrap, ant-design, grommet
