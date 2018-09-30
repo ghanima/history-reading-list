@@ -2,6 +2,28 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-09-30
+
+* [Numerai walkthrough: Quantitative Analysis & Machine learning for fun and profit](https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920) - Quantitative Analysis, Numerai, Stake, Machine Learning, Kaggle
+* [The Lean Startup Principles](http://theleanstartup.com/principles) 
+  * Entrepreneurs are everywhere
+  * Entrepreneurship is management
+  * Validated learning
+  * Innovation accounting
+  * Build-measure-learn
+* [9 Decision Types You Should Know](https://medium.com/@alannallama/9-decision-types-you-should-know-3311f2621e04) - Dictatorial, Delegated, Decentralised, Unanimity, Consensus, Advice, Integrated, Emergent, Collaborative
+* [A Deep Look Into Cosmos — the Internet of Blockchains](https://medium.com/@juliankoh/a-deep-look-into-cosmos-the-internet-of-blockchains-af3aa1a97a5b) - Blockchain, Cosmos, Tendermint, Internet of Blockchains, Hub, IBC protocol, Atom
+* [Machine Learning is Fun (part 1)](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - Machine Learning, Supervised learning, Multivariate linear regression
+
+## 2018-09-29
+
+N/A
+
+## 2018-09-28
+
+* [How NumerAI Works](https://numer.ai/learn) - AI, NumerAI, ERC20, Prediction, Staking, Numeraire (NMR)
+* [Kaggle - the place to do data science projects](https://www.kaggle.com/) - Kaggle, AI, Data Analysis
+
 ## 2018-09-27
 
 * [Extensible Effects: understanding them, implementing them, using them. A Tutorial](http://okmij.org/ftp/Haskell/extensible/tutorial.html) - Eff, Freer monad, Haskell, [CUFP conference](http://cufp.org/2017/c2-oleg-kiselyov-extensible-effects-understanding-them-implementing-them-using-them.html)
@@ -33,4 +55,4 @@ This place record all my reading listing in a single day, includes blogs, videos
 ## 2018-09-21
 
 * [Functional Programming is Terrible in Scala](https://www.youtube.com/watch?v=hzf3hTUKk8U) - FP, Scala, Tail recursion, Higher kind, FP is awesome
-* [*Almost* every single day I TLDR!](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
+* [Almost every single day I TLDR!](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
