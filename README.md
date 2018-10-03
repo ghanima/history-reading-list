@@ -2,9 +2,24 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-02
+
+* [Cryptonetworks and the theory of the firm](https://www.tokendaily.co/blog/cryptonetworks-and-the-theory-of-the-firm) - The nature of the firm, microeconomic, Nobel prize, Genius, Market, 
+
+  Transaction costs:
+
+  1. Search and information costs
+  2. Bargaining and decision costs
+  3. Policing and enforcement costs
+
+## 2018-10-01
+
+* [One seed to sow your key(s)](https://blog.iota.org/one-seed-to-sow-your-key-s-f074f1bb6714) - IOTA, DLT, Seed, Reattach, Snapshot, Public key
+* [Quick and Simple Equihash Mining Pool Guide](https://blockgen.net/quick-and-simple-equihash-mining-pool-guide/) - Equihash, Mining pool, Zcash, Ergo
+
 ## 2018-09-30
 
-* [Numerai walkthrough: Quantitative Analysis & Machine learning for fun and profit](https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920) - Quantitative Analysis, Numerai, Stake, Machine Learning, Kaggle
+* [Numerai walkthrough: Quantitative Analysis & Machine learning for fun and profit](https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920) - Quantitative analysis, Numerai, Stake, Machine learning, Kaggle
 * [The Lean Startup Principles](http://theleanstartup.com/principles) 
   * Entrepreneurs are everywhere
   * Entrepreneurship is management
