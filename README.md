@@ -2,6 +2,25 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-04
+
+* [Your team's VPN server](https://portal.cloud/#) - VPN, WireGuard, Multi-user
+* [Kubernetes: The Surprisingly Affordable Platform for Personal Projects](http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects) - Kubernetes, Google Cloud Platform (GCP), Cluster, 5$/mo
+* [TripleByte - Get offers from top tech companies](https://triplebyte.com/) - Online coding quiz, Match with top companies, Final interview
+* [Startups I Want to Fund](https://startupandrew.com/posts/startups-i-want-to-fund/) - Blog, Investment
+  * Next-gen ISPs
+  * Electric charging station
+* [Purely Functional I/O](https://www.slideshare.net/InfoQ/purely-functional-io) - IO, FP, Scalaz
+
+## 2018-10-03
+
+* [5 Ways to Increase Productivity](https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be) - Siraj Raval
+  * Health mental
+  * Focus the thing meets goal
+  * Seek for help
+  * Planning
+  * Fast experiment (idea -> test -> learn)
+
 ## 2018-10-02
 
 * [Cryptonetworks and the theory of the firm](https://www.tokendaily.co/blog/cryptonetworks-and-the-theory-of-the-firm) - The nature of the firm, microeconomic, Nobel prize, Genius, Market, 
