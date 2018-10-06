@@ -2,6 +2,16 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-05
+
+* [Blockchain Governance 101](https://blog.goodaudience.com/blockchain-governance-101-eea5201d7992) - Decision-making process, Coordination mechanism, Politics, Forking, outcomes:
+  * Autonomous Blockchains
+  * Blockchain Governance Capture
+  * Internet Censorship as Blockchain Governance
+  * Governance via Public International Law or Diplomacy
+  * Governance via International Private Cooperation
+* [Swapping bits and distributing hashes on the decentralized web](https://medium.com/textileio/swapping-bits-and-distributing-hashes-on-the-decentralized-web-5da98a3507) - IPFS, Distributed hash table (DHT), Bitswap, Textile Photos
+
 ## 2018-10-04
 
 * [Your team's VPN server](https://portal.cloud/#) - VPN, WireGuard, Multi-user
