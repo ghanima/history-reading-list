@@ -2,6 +2,28 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-09
+
+* [Monix vs Cats-Effect](https://monix.io/blog/2018/03/20/monix-vs-cats-effect.html) - cats.effect.IO, monic.eval.Task
+* [Monadic IO: Laziness Makes You Free](https://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html) - Monad, IO
+* [Free Monads Are Simple](https://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) - Free Monad, Scalaz, Interpreter, Abstract syntax tree (AST)
+
+## 2018-10-08
+
+N/A
+
+## 2018-10-07
+
+* [https://altheamesh.com/governance-paper](https://altheamesh.com/governance-paper) - Althea Governance, ALGT token, TCR, Cosmos, Subnet DAO, Aragon, Escrow contract
+* [Understanding a Decentralized Exchange](https://medium.com/@theblocknetchannel/understanding-a-decentralized-exchange-eee9e1043f45) - Blocknet Decnetralized Exchange, PoS, Staking nodes, Service nodes
+
+## 2018-10-06
+
+* [Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc) - React, Static site, Next.js, Gatsby
+* [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3) - ML, Neural Network, Stateless Model, Recurrent Neural Network (RNN)
+* [Reinvent the social web - André Staltz](https://www.youtube.com/watch?v=8GE5C9-RUpg&feature=youtu.be) - Scuttlebot, Patchwork, Manyver, Solid, decentralized social web
+* [A New Unstoppable Predictions Marketplace — Introducing Erasure](https://medium.com/numerai/numerai-reveals-erasure-unstoppable-peer-to-peer-data-feeds-4fbb8d92820a) - NumerAI, Erasure, Market Collapse, Prediction Marketplace, Commit and reveal scheme
+
 ## 2018-10-05
 
 * [Blockchain Governance 101](https://blog.goodaudience.com/blockchain-governance-101-eea5201d7992) - Decision-making process, Coordination mechanism, Politics, Forking, outcomes:
