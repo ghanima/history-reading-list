@@ -2,11 +2,20 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-11
+
+* [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8&t=43s) - Monad, Monoid, FP
+
+## 2018-10-10
+
+N/A
+
 ## 2018-10-09
 
 * [Monix vs Cats-Effect](https://monix.io/blog/2018/03/20/monix-vs-cats-effect.html) - cats.effect.IO, monic.eval.Task
 * [Monadic IO: Laziness Makes You Free](https://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html) - Monad, IO
 * [Free Monads Are Simple](https://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) - Free Monad, Scalaz, Interpreter, Abstract syntax tree (AST)
+* [Yoneda and Coyoneda trick](https://medium.com/@olxc/yoneda-and-coyoneda-trick-f5a0321aeba4) - Yoneda, Coyoneda, Functor, Free Monad
 
 ## 2018-10-08
 
