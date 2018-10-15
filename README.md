@@ -2,9 +2,22 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-10-14
+
+N/A
+
+## 2018-10-13
+
+* [Sentinel Network — the transition to Tendermint within the Cosmos Network](https://medium.com/sentinel/sentinel-network-the-transition-to-tendermint-within-the-cosmos-network-9e0022bfb03c) - Sentinel, DLT, Cosmos, Tendermint, ABCI, bPoS, dVPN, SENT token
+
+## 2018-10-12
+
+N/A
+
 ## 2018-10-11
 
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8&t=43s) - Monad, Monoid, FP
+* [Localtunnel: expose your web service](https://github.com/localtunnel/localtunnel) - expose, dev tools
 
 ## 2018-10-10
 
