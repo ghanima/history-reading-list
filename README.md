@@ -2,7 +2,29 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
-## 2018-10-14
+## 2018-10-22 ~ 2018-10-28
+
+* [AWS Solution Architect Associate exam, my notes and tips](https://loige.co/aws-solution-architect-associate-exam-notes-tips) - AWS, AWS Solution Architect Associate Certification, SAML
+* [Extensible Effects: A Leaner Cake for Purely Functional Code – Edmund Noble](https://www.youtube.com/watch?v=IQYf8_E9G9s&t=101s) - Tagless final, Scala, FP
+* [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html) - Free Monad, Haskell
+
+## 2018-10-20 ~ 2018-10-21
+
+* [Extensible Effects: An Alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/exteff.pdf) - Eff, Monad Transformer, Free monad
+* [percollate: A command-line tool to turn web pages into beautifully formatted PDFs](https://github.com/danburzo/percollate) - CLI, web page to PDF
+* [Extensible Effects in Dotty](https://www.slideshare.net/SanshiroYoshida/extensible-effects-in-dotty) - Monad, Free Monad, Freer Monad, Coyoneda, Open Union, Extensible effect, Union types
+* [OKC FP: Dan Robert - Extensible Effects in Scala](https://www.twitch.tv/videos/274087420) - Monad, Eff
+* [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w&t=37s) - Effect, Haskell, Oleg Kiselyov (Extensible effect)
+
+## 2018-10-18 ~2018-10-19
+
+N/A
+
+## 2018-10-17
+
+* [Blueprint: React-based UI toolkit for the web.](https://blueprintjs.com/docs/#blueprint) - React, frontend, Button, Componet
+
+## 2018-10-14 ~ 2018-10-16
 
 N/A
 
