@@ -2,6 +2,23 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+
+
+## 2018-11-01 ~ 2018-11-04
+
+* [Receiving payments by Western Union Quick Cash](https://support.google.com/adsense/answer/2850006?hl=en&vid=0-undefined-1476304731302) - Google Adsense, WUQC, Bank of China
+* [Cryptocurrency: AdEx](https://www.adex.network/) - Ads, publisher, advertiser, web user, Cosmos
+* [Blockchain & Advertising — New Solutions to Old Problems](https://medium.com/trivial-co/blockchain-advertising-new-solutions-to-old-problems-e7fcbbc16b85) - Brave / BAT, Adshares, Bitclave, adChain / adToken, AdEx, ATMChain, ProChain, DATA, Adbank
+* [neo4j](https://neo4j.com/) - Graph database
+* [Smart Contracts for the People](http://chepurnoy.org/blog/2018/10/smart-contracts-for-the-people/) - Ergo, Smart contract, ErgoScript
+* [Computerphile: Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs) - Lambda, FP
+
+## 2018-10-29 ~ 2018-10-31
+
+* [Functional Programming](https://medium.com/the-renaissance-developer/functional-programming-40dfe049461e) - Pure function, Immutable, Referential Transparency
+* [Cryptocurrency: CODA](https://codaprotocol.com/) - Constant sized blockchain, zk-SNARK, OCaml
+* [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w&t=3016s) - Effect
+
 ## 2018-10-22 ~ 2018-10-28
 
 * [AWS Solution Architect Associate exam, my notes and tips](https://loige.co/aws-solution-architect-associate-exam-notes-tips) - AWS, AWS Solution Architect Associate Certification, SAML
