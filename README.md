@@ -2,7 +2,14 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-11-05 ~ 2018-11-07
 
+* [Cosmos: many chains, one ecosystem](https://www.youtube.com/watch?v=LApEkXJR_0M&t=1116s) - Cosmos, PoS, inter blockchain, Tendermint, Hub, SDK
+* [sunnya97](http://sunnya97.com/) - Cosmos co-founder
+* [Thoughts on Iota](https://conspirat.us/thoughts-on-iota-df7ef25bfc37) - IOTA, MCMC
+* [zero knowledge proof  standardization](https://zkproof.org/documents.html) - workshop
+* [Actually Understanding Timezones in PostgreSQL](http://blog.untrod.com/2016/08/actually-understanding-timezones-in-postgresql.html) - database, postgresql, timezone
+* [orbit-db: decentralized database](https://github.com/orbitdb/orbit-db) - IPFS, P2P, database
 
 ## 2018-11-01 ~ 2018-11-04
 
