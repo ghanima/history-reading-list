@@ -2,6 +2,37 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-11-08 ~2018-11-18
+
+* [Confirmation and ɑ](https://blog.iota.org/confirmation-and-%C9%91-100a85bce9c7) - IOTA, DAG, Coordinator
+
+* [Complex Passwords Harder to Crack, but It May Not Matter](https://www.inetsolution.com/blog/june-2012/complex-passwords-harder-to-crack,-but-it-may-not) - Strong password, Crack time
+
+* [Block cipher mode of operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Cipher_Block_Chaining_.28CBC.29) - Block cipher, Initialization vector, Padding, Cipher Block Chaining (CBC)
+
+* [HMAC](https://en.wikipedia.org/wiki/HMAC) - Cryptography, Hash-based message authentication code
+
+* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - Data structure, Interview, Job, Programmer
+
+* [State of the STARK](https://drive.google.com/file/d/1Osa0MXu-04dfwn1YOSgN6CXOgWnsp-Tu/view) - Zero knowledge, SNARKs (Zcash), Recursive SNARKs (Coda), Bulletproofs (Monero) 
+
+* [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf) - Haskell, data type, eff
+
+* [24 Days of Hackage: extensible-effects](https://ocharles.org.uk/blog/posts/2013-12-04-24-days-of-hackage-extensible-effects.html) - Eff, Haskell, Union
+
+* [Concrete example showing that monads are not closed under composition (with proof)?](https://stackoverflow.com/questions/13034229/concrete-example-showing-that-monads-are-not-closed-under-composition-with-proo) - Monad, compose
+
+* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - AWS, CloudFormation, EC2, S3, IAM
+
+* [Beginning Web Programming in Haskell](https://www.youtube.com/watch?v=GobPiGL9jJ4&feature=youtu.be) - Haskell, Web developement, spock, lucid, postgresql-simple
+
+* [My take on IOTA Economic Clustering](https://medium.com/@za.uz/my-take-on-iota-economic-clustering-e00bd7db4812) - IOTA, DLT, Economic Cluster, Subtangle
+
+* [Blockchain Zero-knowledge Proof In A Nutshell](https://medium.com/coinmonks/blockchain-zero-knowledge-proof-in-a-nutshell-f0684a669a68) - Zero knowledge, zk-SNARKs, cave door
+
+* [Blockchain Public / Private Key Cryptography In A Nutshell](https://medium.com/coinmonks/blockchain-public-private-key-cryptography-in-a-nutshell-b7776e475e7c) - DLT, key management, digital signature
+
+
 ## 2018-11-05 ~ 2018-11-07
 
 * [Cosmos: many chains, one ecosystem](https://www.youtube.com/watch?v=LApEkXJR_0M&t=1116s) - Cosmos, PoS, inter blockchain, Tendermint, Hub, SDK
