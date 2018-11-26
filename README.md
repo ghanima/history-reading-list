@@ -2,7 +2,20 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
-## 2018-11-08 ~2018-11-18
+
+
+## 2018-11-19 ~ 2018-11-25
+
+* [GRPC](https://grpc.io/) - gRPC server, gRPC stub, protobuf
+* [Is gRPC the Future of Client-Server Communication?](https://medium.com/@EdgePress/is-grpc-the-future-of-client-server-communication-b112acf9f365) - gRPC, CORBA, SOAP, HTTP/2
+* [Building high performance microservices with Kubernetes, Go, and gRPC (Google Cloud Next '17)](https://www.youtube.com/watch?v=YiNt4kUnnIM&t=2s) - GCP, Kubernetes, Microservices
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - FP, Applicative
+* [ARK.io, Solidity Smart Contracts and Hyperledger Burrow](https://steempeak.com/ethereum/@vadymus/ark-io-solidity-smart-contracts-and-hyperledger-burrow) - DLT, Ark, Solidity, Hyperledger
+* [Qubic - Eric Hop](https://www.youtube.com/watch?v=aYgOFe-3oFc&feature=youtu.be) - DLT, IOTA, Qubic, Abba, Oracle
+* [OOP vs. FP. The pursuit of extensibility part #1](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-1-31029591c3b4) - FP, Expression Problem, Extensibility, Open-Close Principle, Add operation, Add form / data, type class
+* [The future of organizations](https://blog.aragon.one/the-future-of-organizations/) - DAO, Ethereum, Governance
+
+## 2018-11-08 ~ 2018-11-18
 
 * [Confirmation and ɑ](https://blog.iota.org/confirmation-and-%C9%91-100a85bce9c7) - IOTA, DAG, Coordinator
 
