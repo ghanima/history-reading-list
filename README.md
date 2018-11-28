@@ -2,6 +2,22 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-11-26 ~ 2018-12-02
+
+* [Understanding JSON Web Token Authentication](https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15) - JWT, Authentication
+* [Correlation IDs in Scala using Monix](http://feeds.listings.stg.realestate.com.au/combined-listings/129732954) - Scala, Monix, Correlation ID
+* [Why Scala?](https://blog.softwaremill.com/why-scala-a6ac8c98c541) - FP, Problem domain, Scala 3
+* [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html) - Principle of Least Power
+  * Immutability & Mutability
+  * Published Interfaces
+  * Data Types
+  * Error Handling
+  * Asynchronous Return Types
+  * Dependency Injection
+* [Li Haoyi - Resume](http://www.lihaoyi.com/Resume/) - Work, Open source, Buzzwords, Ancient history, Talks
+* [grin](https://github.com/mimblewimble/grin) - DLT, MimbleWimble
+* [Introduction to MimbleWimble and Grin](https://github.com/mimblewimble/grin/blob/master/doc/intro.md) - Elliptic Curves, Cut-through, privacy
+
 
 
 ## 2018-11-19 ~ 2018-11-25
