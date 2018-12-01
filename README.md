@@ -17,6 +17,12 @@ This place record all my reading listing in a single day, includes blogs, videos
 * [Li Haoyi - Resume](http://www.lihaoyi.com/Resume/) - Work, Open source, Buzzwords, Ancient history, Talks
 * [grin](https://github.com/mimblewimble/grin) - DLT, MimbleWimble
 * [Introduction to MimbleWimble and Grin](https://github.com/mimblewimble/grin/blob/master/doc/intro.md) - Elliptic Curves, Cut-through, privacy
+* [Workshop: design-for-developers](https://github.com/sdras/design-for-developers) - Design, CSS
+* [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh) - Haskell, Book
+* [IOTA ICT Installation tutorial](https://medium.com/@lambtho/iota-ict-installation-tutorial-c079a1ca3b7d) - IOTA, ICT, No-ip
+* [Dotty Documentation](https://dotty.epfl.ch/docs/) - Scala 3, Union
+* [Serverless Backend using AWS Lambda: Hands-on Guide](https://blog.bitsrc.io/serverless-backend-using-aws-lambda-hands-on-guide-31806ceb735e) - Serverless, Lambda, DynamoDB
+* [Amazon EKS Workshop](https://eksworkshop.com/) - EKS, Kubernetes, CodePipeline, Argo, Fluentd + Elasticsearch + Kibana (EFK), Prometheus + Grafana, Istio
 
 
 
