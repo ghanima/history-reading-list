@@ -23,6 +23,7 @@ This place record all my reading listing in a single day, includes blogs, videos
 * [Dotty Documentation](https://dotty.epfl.ch/docs/) - Scala 3, Union
 * [Serverless Backend using AWS Lambda: Hands-on Guide](https://blog.bitsrc.io/serverless-backend-using-aws-lambda-hands-on-guide-31806ceb735e) - Serverless, Lambda, DynamoDB
 * [Amazon EKS Workshop](https://eksworkshop.com/) - EKS, Kubernetes, CodePipeline, Argo, Fluentd + Elasticsearch + Kibana (EFK), Prometheus + Grafana, Istio
+* [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo&t=2198s) - Scala, FP, Free
 
 
 
