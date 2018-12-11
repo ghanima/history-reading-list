@@ -2,6 +2,15 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-12-03 ~ 2018-12-09
+
+* [Explainer Series: Hashgraph Consensus Algorithm](https://www.youtube.com/watch?v=pArbqFM45M4) - DLT, Hashgrash, Hedera, Consensus, Gossip
+* [Understand Hashgraph](https://medium.com/@shichunhui0924/understand-hashgraph-8d7081e58a7f) - DAG, Gossip about gossip, virtual voting, event, witness
+* [The Two Schools Of Thought In Open Source](https://staltz.com/two-schools-of-thought-in-open-source.html) - OSS, Monolithic, Modular, Patron
+* [[Why are smart contracts important?](https://www.quora.com/Why-are-smart-contracts-important)](https://www.quora.com/Why-are-smart-contracts-important/answer/IBM-Blockchain?ch=10&share=3b4295c6&srid=tzUlE) - Smart contract, Usage, middlemen
+* [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0&t=1s) - Vim
+
+
 ## 2018-11-26 ~ 2018-12-02
 
 * [Understanding JSON Web Token Authentication](https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15) - JWT, Authentication
