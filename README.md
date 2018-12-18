@@ -2,6 +2,15 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+
+
+## 2018-12-10 ~ 2-18-12-16
+
+* [Behind MimbleWimble](https://medium.com/@jcliff/behind-mimblewimble-cd9da78a00e9) - MimbleWimble, Elliptic curve creptgraphy, Grin, Beam, Confidential transactions, cut through
+* [real-world scala: dependency injection (di)](http://jonasboner.com/real-world-scala-dependency-injection-di/) - Scala, DI, Cake pattern, Structural typing, Implicit declarations, Google Guice
+* [AxiomLevel Technologies](https://www.axiomlevel.io/) - Smart contract, Ethereum, Hashgrash
+* [Ethereum sharding and Casper educational materials](https://www.reddit.com/r/ethereum/comments/a6e0au/request_for_public_feedback_how_well_organized/) - Ethereum 2.0, Sharding, PoS, Casper, vitalic buterin
+
 ## 2018-12-03 ~ 2018-12-09
 
 * [Explainer Series: Hashgraph Consensus Algorithm](https://www.youtube.com/watch?v=pArbqFM45M4) - DLT, Hashgrash, Hedera, Consensus, Gossip
