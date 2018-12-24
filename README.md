@@ -2,9 +2,22 @@
 
 This place record all my reading listing in a single day, includes blogs, videos, pages, etc.
 
+## 2018-12-24 ~ 2018-12-30
 
+* [What Are Zero Knowledge Proofs?](https://www.youtube.com/watch?v=s6nYMJq3WA4&t=2s) - Zero knowledge, basic, PIVX
 
-## 2018-12-10 ~ 2-18-12-16
+## 2018-12-17 ~ 2018-12-23
+
+* [Demystifying Zero Knowledge Proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) - zk-SNARKs, zk-STARKs, Bulletproofs, RSA, ECC
+* [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) - Research, DLT, resources
+* [Protocol Buffers official guide](https://developers.google.com/protocol-buffers/docs/gotutorial) - protobuf, gRPC, tutorial
+* [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a) - Scala, fs2, Stream, IO, Description & execution
+* [FP-Course-ITMO](https://github.com/jagajaga/FP-Course-ITMO) - FP, Haskell, Course
+* [ethhub](https://github.com/ethhub-io/ethhub/tree/master/ethereum-101) - Ethereum 101, history, governance, use cases, development, truffle, Remix
+* [MkDocs: Project documentation with Markdown](https://www.mkdocs.org/) - Document management, Github page, Markdown
+* [Smart contract showdown: Hyperledger Fabric vs MultiChain vs Ethereum vs Corda](https://www.multichain.com/blog/2018/12/smart-contract-showdown/) - Solidity, Transaction rules, Determinism, Conflict prevention, Inputs and outpus, Contracts and messages
+
+## 2018-12-10 ~ 2018-12-16
 
 * [Behind MimbleWimble](https://medium.com/@jcliff/behind-mimblewimble-cd9da78a00e9) - MimbleWimble, Elliptic curve creptgraphy, Grin, Beam, Confidential transactions, cut through
 * [real-world scala: dependency injection (di)](http://jonasboner.com/real-world-scala-dependency-injection-di/) - Scala, DI, Cake pattern, Structural typing, Implicit declarations, Google Guice
